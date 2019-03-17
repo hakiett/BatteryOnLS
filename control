@@ -1,7 +1,7 @@
 Package: com.kaitouiet.batteryonls
 Name: BatteryOnLS
 Depends: mobilesubstrate
-Version: 20.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Add your battery percentage to your lock screen
 Maintainer: Kiet Ha
